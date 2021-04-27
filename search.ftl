@@ -41,7 +41,7 @@
 				<!-- search start -->
 				<form class="s-search">
 					<i class="iconfont">&#xe65c;</i>
-					<input class="text-input" type="search" name="s" placeholder="Search..." required>
+					<input class="text-input" type="search" name="keyword" placeholder="Search..." required>
 				</form>
 				<!-- search end -->
 			</div>
